@@ -1,4 +1,4 @@
-# Sign Language Translator  
+# LoudGesture 
 
 ## 📖 Overview  
 The **Sign Language Translator** is an innovative application designed to bridge the communication gap between individuals who use sign language and those who don't. By utilizing cutting-edge technologies like **computer vision**, **machine learning**, and **natural language processing**, the app translates sign language gestures into spoken or written text in real-time, fostering inclusivity and understanding.  
